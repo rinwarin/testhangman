@@ -19,7 +19,7 @@ public class Server {
     //static ServerSocket variable
     private static ServerSocket server;
     //socket server port on which it will listen
-    private static int port = 8888;
+    private static int port = 8080;
 
     public static void main(String args[]) throws ClassNotFoundException {
         //create the socket server object

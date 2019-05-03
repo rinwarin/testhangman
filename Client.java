@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Client {
 
     private static int MAX_TRY = 7;
-    private static int INIT_PORT = 8888;
+    private static int INIT_PORT = 8080;
     private static String HOST = "127.0.0.1";
 
     private static int miss_chance = 0;
